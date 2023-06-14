@@ -34,7 +34,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     
-    "8000-james-glennon-blog-"jang-lyowqelvjo.us2.codeanyapp.com",
+    "8000-james-glennon-blog-"j
+    "https://ci-codestr-6b22e60c5f32.herokuapp.com/",ang-lyowqelvjo.us2.codeanyapp.com",
     "ci-codestr",
 herokuapp.com",
     "local_host",
