@@ -37,6 +37,7 @@ ALLOWED_HOSTS = [
     "ci-codestr.herokuapp.com",
     "https://ci-codestr-6b22e60c5f32.herokuapp.com/",
     "local_host",
+    "ci-codestr-6b22e60c5f32.herokuapp.com"
 ]
 
 
